@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "376600001776",
+    "project_id": "ppdbwikrama-89e15",
+    "storage_bucket": "ppdbwikrama-89e15.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:376600001776:android:8b8e1bb160845908d79635",
+        "android_client_info": {
+          "package_name": "com.example.ppdb_wikrama"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "376600001776-5pm71u3oet0u46d15sdb6dnsv48co3e1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2obQtno14ap9f7bG2buh2S3Tz4I5aNRs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "376600001776-5pm71u3oet0u46d15sdb6dnsv48co3e1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
